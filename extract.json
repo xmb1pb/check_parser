@@ -1,0 +1,3113 @@
+[
+    {
+        "claims": [],
+        "ticket": {
+            "document": {
+                "receipt": {
+                    "buyerPhoneOrAddress": "+79232443038",
+                    "cashTotalSum": 0,
+                    "code": 3,
+                    "creditSum": 0,
+                    "dateTime": "2021-01-21T09:54:00",
+                    "ecashTotalSum": 152100,
+                    "fiscalDocumentFormatVer": 2,
+                    "fiscalDocumentNumber": 13314,
+                    "fiscalDriveNumber": "9287440300569725",
+                    "fiscalSign": 3290212384,
+                    "items": [
+                        {
+                            "name": "Внесение аванса",
+                            "nds": 6,
+                            "ndsSum": 0,
+                            "paymentType": 3,
+                            "price": 152100,
+                            "productType": 10,
+                            "quantity": 1,
+                            "sum": 152100
+                        }
+                    ],
+                    "kktRegId": "0002196059032912",
+                    "machineNumber": "KKT009712",
+                    "ndsNo": 152100,
+                    "operationType": 1,
+                    "prepaidSum": 0,
+                    "provisionSum": 0,
+                    "requestNumber": 8,
+                    "retailPlace": "https://amournsk.ru",
+                    "sellerAddress": "info@amournsk.ru",
+                    "shiftNumber": 481,
+                    "taxationType": 4,
+                    "appliedTaxationType": 4,
+                    "totalSum": 152100,
+                    "user": "ЦИТУРИ МАРИЯ ВЛАДИМИРОВНА",
+                    "userInn": "540452494450"
+                }
+            }
+        },
+        "createdAt": "2021-11-30T14:16:58+00:00",
+        "timeLastAccess": "2021-11-30T14:16:58+00:00"
+    },
+    {
+        "claims": [],
+        "ticket": {
+            "document": {
+                "receipt": {
+                    "cashTotalSum": 0,
+                    "code": 3,
+                    "creditSum": 0,
+                    "dateTime": "2021-06-15T10:29:00",
+                    "ecashTotalSum": 1754518,
+                    "fiscalDocumentFormatVer": 2,
+                    "fiscalDocumentNumber": 540,
+                    "fiscalDriveNumber": "9280440300671993",
+                    "fiscalSign": 2318389997,
+                    "fnsUrl": "www.nalog.ru",
+                    "items": [
+                        {
+                            "name": "Резьба стальная 1 1/4\" Ду 32",
+                            "nds": 1,
+                            "ndsSum": 5318,
+                            "paymentType": 4,
+                            "price": 3191,
+                            "productType": 1,
+                            "quantity": 10,
+                            "sum": 31909
+                        },
+                        {
+                            "name": "Резьба стальная 1 1/2\" Ду 40",
+                            "nds": 1,
+                            "ndsSum": 5037,
+                            "paymentType": 4,
+                            "price": 4317,
+                            "productType": 1,
+                            "quantity": 7,
+                            "sum": 30219
+                        },
+                        {
+                            "name": "Резьба стальная 1 1/2\" Ду 40",
+                            "nds": 1,
+                            "ndsSum": 2159,
+                            "paymentType": 4,
+                            "price": 4318,
+                            "productType": 1,
+                            "quantity": 3,
+                            "sum": 12954
+                        },
+                        {
+                            "name": "Круг отрезной (металл)(Луга) 125x1,6x22 14А",
+                            "nds": 1,
+                            "ndsSum": 2401,
+                            "paymentType": 4,
+                            "price": 2401,
+                            "productType": 1,
+                            "quantity": 6,
+                            "sum": 14406
+                        },
+                        {
+                            "name": "Круг отрезной (металл)(Луга) 125x1,6x22 14А",
+                            "nds": 1,
+                            "ndsSum": 1600,
+                            "paymentType": 4,
+                            "price": 2400,
+                            "productType": 1,
+                            "quantity": 4,
+                            "sum": 9600
+                        },
+                        {
+                            "name": "Муфта стальная 1 1/4\" Ду 32",
+                            "nds": 1,
+                            "ndsSum": 2965,
+                            "paymentType": 4,
+                            "price": 5929,
+                            "productType": 1,
+                            "quantity": 3,
+                            "sum": 17787
+                        },
+                        {
+                            "name": "Муфта стальная 1 1/4\" Ду 32",
+                            "nds": 1,
+                            "ndsSum": 1977,
+                            "paymentType": 4,
+                            "price": 5930,
+                            "productType": 1,
+                            "quantity": 2,
+                            "sum": 11860
+                        },
+                        {
+                            "name": "Муфта стальная 1 1/2\" Ду 40",
+                            "nds": 1,
+                            "ndsSum": 11720,
+                            "paymentType": 4,
+                            "price": 14064,
+                            "productType": 1,
+                            "quantity": 5,
+                            "sum": 70321
+                        },
+                        {
+                            "name": "Кран шаровый с накидной  гайкой 11/2\" ITAP  098",
+                            "nds": 1,
+                            "ndsSum": 167261,
+                            "paymentType": 4,
+                            "price": 250891,
+                            "productType": 1,
+                            "quantity": 4,
+                            "sum": 1003565
+                        },
+                        {
+                            "name": "Кран шаровый с накидной  гайкой 11/4\" ITAP  098",
+                            "nds": 1,
+                            "ndsSum": 91983,
+                            "paymentType": 4,
+                            "price": 137974,
+                            "productType": 1,
+                            "quantity": 4,
+                            "sum": 551897
+                        }
+                    ],
+                    "kktRegId": "0001581560009059    ",
+                    "nds18": 292421,
+                    "operationType": 1,
+                    "operator": "Любенко Татьяна Васильевна",
+                    "prepaidSum": 0,
+                    "properties": {
+                        "propertyName": "Подпись клиента",
+                        "propertyValue": "__________"
+                    },
+                    "provisionSum": 0,
+                    "requestNumber": 45,
+                    "retailPlace": "Магазин",
+                    "retailPlaceAddress": "630075 г.Новосибирск, ул.Народная д.20",
+                    "shiftNumber": 4,
+                    "taxationType": 1,
+                    "appliedTaxationType": 1,
+                    "totalSum": 1754518,
+                    "user": "ООО фирма \"Вариант-А\"",
+                    "userInn": "5407137216  "
+                }
+            }
+        },
+        "createdAt": "2021-11-30T14:16:58+00:00",
+        "timeLastAccess": "2021-11-30T14:16:58+00:00"
+    },
+    {
+        "claims": [],
+        "ticket": {
+            "document": {
+                "receipt": {
+                    "cashTotalSum": 0,
+                    "code": 3,
+                    "creditSum": 0,
+                    "dateTime": "2021-06-25T09:34:00",
+                    "ecashTotalSum": 1300985,
+                    "fiscalDocumentFormatVer": 2,
+                    "fiscalDocumentNumber": 2676,
+                    "fiscalDriveNumber": "9280440300671993",
+                    "fiscalSign": 846415979,
+                    "fnsUrl": "www.nalog.ru",
+                    "items": [
+                        {
+                            "name": "Муфта нр-нр 3/4\"х1 1/2\"",
+                            "nds": 1,
+                            "ndsSum": 23575,
+                            "paymentType": 4,
+                            "price": 35363,
+                            "productType": 1,
+                            "quantity": 4,
+                            "sum": 141451
+                        },
+                        {
+                            "name": "Муфта вр-нр 3/4\" х11/2\"",
+                            "nds": 1,
+                            "ndsSum": 12735,
+                            "paymentType": 4,
+                            "price": 38205,
+                            "productType": 1,
+                            "quantity": 2,
+                            "sum": 76410
+                        },
+                        {
+                            "name": "Кран шаровый (в.р.-н.р.) 11/4\" (ручка-рычаг) ITAP 117",
+                            "nds": 1,
+                            "ndsSum": 33809,
+                            "paymentType": 4,
+                            "price": 101426,
+                            "productType": 1,
+                            "quantity": 2,
+                            "sum": 202852
+                        },
+                        {
+                            "name": "Фильтр углов. сетчатый  1/2\" (грязевик) ITAP 192",
+                            "nds": 1,
+                            "ndsSum": 11212,
+                            "paymentType": 4,
+                            "price": 22424,
+                            "productType": 1,
+                            "quantity": 3,
+                            "sum": 67271
+                        },
+                        {
+                            "name": "Фильтр углов. сетчатый  3/4\" (грязевик) ITAP 192",
+                            "nds": 1,
+                            "ndsSum": 12874,
+                            "paymentType": 4,
+                            "price": 38623,
+                            "productType": 1,
+                            "quantity": 2,
+                            "sum": 77246
+                        },
+                        {
+                            "name": "Муфта комбинированная (в.р.)  32*1\" (SPK)",
+                            "nds": 1,
+                            "ndsSum": 4160,
+                            "paymentType": 4,
+                            "price": 12480,
+                            "productType": 1,
+                            "quantity": 2,
+                            "sum": 24960
+                        },
+                        {
+                            "name": "Муфта комбинированная (н.р.)  32*1\" (SPK)",
+                            "nds": 1,
+                            "ndsSum": 4880,
+                            "paymentType": 4,
+                            "price": 14640,
+                            "productType": 1,
+                            "quantity": 2,
+                            "sum": 29280
+                        },
+                        {
+                            "name": "МУФТА    32  мм   (SPK)",
+                            "nds": 1,
+                            "ndsSum": 2200,
+                            "paymentType": 4,
+                            "price": 1320,
+                            "productType": 1,
+                            "quantity": 10,
+                            "sum": 13200
+                        },
+                        {
+                            "name": "32*5,4   мм    ТРУБА PN 20 (SPK)",
+                            "nds": 1,
+                            "ndsSum": 45600,
+                            "paymentType": 4,
+                            "price": 13680,
+                            "productType": 1,
+                            "quantity": 20,
+                            "sum": 273600
+                        },
+                        {
+                            "name": "Трубная изоляция  42*9   Порилекс НПЭ Т серый",
+                            "nds": 1,
+                            "ndsSum": 4457,
+                            "paymentType": 4,
+                            "price": 1910,
+                            "productType": 1,
+                            "quantity": 14,
+                            "sum": 26740
+                        },
+                        {
+                            "name": "Трубная изоляция  42*9   Порилекс НПЭ Т серый",
+                            "nds": 1,
+                            "ndsSum": 3182,
+                            "paymentType": 4,
+                            "price": 1909,
+                            "productType": 1,
+                            "quantity": 10,
+                            "sum": 19090
+                        },
+                        {
+                            "name": "Угольник    32мм*45    град. (SPK)",
+                            "nds": 1,
+                            "ndsSum": 3500,
+                            "paymentType": 4,
+                            "price": 2100,
+                            "productType": 1,
+                            "quantity": 10,
+                            "sum": 21000
+                        },
+                        {
+                            "name": "Угольник    32мм*90    град. (SPK)",
+                            "nds": 1,
+                            "ndsSum": 3300,
+                            "paymentType": 4,
+                            "price": 1980,
+                            "productType": 1,
+                            "quantity": 10,
+                            "sum": 19800
+                        },
+                        {
+                            "name": "Кран шаровый (в.р.-н.р.) 11/2\" (ручка-рычаг) ITAP 117",
+                            "nds": 1,
+                            "ndsSum": 47002,
+                            "paymentType": 4,
+                            "price": 141007,
+                            "productType": 1,
+                            "quantity": 2,
+                            "sum": 282013
+                        },
+                        {
+                            "name": "Скотч армированный GLOBEX 50мм*50м",
+                            "nds": 1,
+                            "ndsSum": 3285,
+                            "paymentType": 4,
+                            "price": 19712,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 19712
+                        },
+                        {
+                            "name": "Муфта комбинированная (в.р.)  32*1/2\" (SPK)",
+                            "nds": 1,
+                            "ndsSum": 1060,
+                            "paymentType": 4,
+                            "price": 6360,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 6360
+                        }
+                    ],
+                    "kktRegId": "0001581560009059    ",
+                    "nds18": 216831,
+                    "operationType": 1,
+                    "operator": "Любенко Татьяна Васильевна",
+                    "prepaidSum": 0,
+                    "properties": {
+                        "propertyName": "Подпись клиента",
+                        "propertyValue": "__________"
+                    },
+                    "provisionSum": 0,
+                    "requestNumber": 19,
+                    "retailPlace": "Магазин",
+                    "retailPlaceAddress": "630075 г.Новосибирск, ул.Народная д.20",
+                    "shiftNumber": 14,
+                    "taxationType": 1,
+                    "appliedTaxationType": 1,
+                    "totalSum": 1300985,
+                    "user": "ООО фирма \"Вариант-А\"",
+                    "userInn": "5407137216  "
+                }
+            }
+        },
+        "createdAt": "2021-11-30T14:16:58+00:00",
+        "timeLastAccess": "2021-11-30T14:16:58+00:00"
+    },
+    {
+        "claims": [],
+        "ticket": {
+            "document": {
+                "receipt": {
+                    "cashTotalSum": 0,
+                    "code": 3,
+                    "creditSum": 0,
+                    "dateTime": "2021-06-29T13:39:00",
+                    "ecashTotalSum": 304179,
+                    "fiscalDocumentFormatVer": 2,
+                    "fiscalDocumentNumber": 3492,
+                    "fiscalDriveNumber": "9280440300671993",
+                    "fiscalSign": 2405281520,
+                    "fnsUrl": "www.nalog.ru",
+                    "items": [
+                        {
+                            "name": "Резьба стальная 1/2\" Ду 15",
+                            "nds": 1,
+                            "ndsSum": 226,
+                            "paymentType": 4,
+                            "price": 1358,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 1358
+                        },
+                        {
+                            "name": "Муфта нр-нр 3/4\"х1 1/4\"",
+                            "nds": 1,
+                            "ndsSum": 11453,
+                            "paymentType": 4,
+                            "price": 22906,
+                            "productType": 1,
+                            "quantity": 3,
+                            "sum": 68719
+                        },
+                        {
+                            "name": "Муфта нр-вр 3/4\"х1 1/2\"",
+                            "nds": 1,
+                            "ndsSum": 12178,
+                            "paymentType": 4,
+                            "price": 36533,
+                            "productType": 1,
+                            "quantity": 2,
+                            "sum": 73066
+                        },
+                        {
+                            "name": "Кран шаровый (в.р.-н.р.) 1/2\"  (ручка-бабочка) ITAP 119",
+                            "nds": 1,
+                            "ndsSum": 4442,
+                            "paymentType": 4,
+                            "price": 26653,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 26653
+                        },
+                        {
+                            "name": "Обратный  клапан 3/4\"   ITAP 103",
+                            "nds": 1,
+                            "ndsSum": 22397,
+                            "paymentType": 4,
+                            "price": 33596,
+                            "productType": 1,
+                            "quantity": 4,
+                            "sum": 134383
+                        }
+                    ],
+                    "kktRegId": "0001581560009059    ",
+                    "nds18": 50696,
+                    "operationType": 1,
+                    "operator": "Доманская Яна Валерьевна",
+                    "prepaidSum": 0,
+                    "properties": {
+                        "propertyName": "Подпись клиента",
+                        "propertyValue": "__________"
+                    },
+                    "provisionSum": 0,
+                    "requestNumber": 127,
+                    "retailPlace": "Магазин",
+                    "retailPlaceAddress": "630075 г.Новосибирск, ул.Народная д.20",
+                    "shiftNumber": 18,
+                    "taxationType": 1,
+                    "appliedTaxationType": 1,
+                    "totalSum": 304179,
+                    "user": "ООО фирма \"Вариант-А\"",
+                    "userInn": "5407137216  "
+                }
+            }
+        },
+        "createdAt": "2021-11-30T14:16:58+00:00",
+        "timeLastAccess": "2021-11-30T14:16:58+00:00"
+    },
+    {
+        "claims": [],
+        "ticket": {
+            "document": {
+                "receipt": {
+                    "cashTotalSum": 0,
+                    "code": 3,
+                    "creditSum": 0,
+                    "dateTime": "2021-07-22T13:39:00",
+                    "ecashTotalSum": 1015186,
+                    "fiscalDocumentFormatVer": 2,
+                    "fiscalDocumentNumber": 8247,
+                    "fiscalDriveNumber": "9280440300671993",
+                    "fiscalSign": 3921696795,
+                    "fnsUrl": "www.nalog.ru",
+                    "items": [
+                        {
+                            "name": "Кран шаровой латунный 3/4\" LD Pride 47-20-40-В/Н-Р",
+                            "nds": 1,
+                            "ndsSum": 10746,
+                            "paymentType": 4,
+                            "price": 32237,
+                            "productType": 1,
+                            "quantity": 2,
+                            "sum": 64474
+                        },
+                        {
+                            "name": "Труба РР  канал. D=40, L= 2 м.",
+                            "nds": 1,
+                            "ndsSum": 19273,
+                            "paymentType": 4,
+                            "price": 11564,
+                            "productType": 1,
+                            "quantity": 10,
+                            "sum": 115640
+                        },
+                        {
+                            "name": "ТРОЙНИК   32 мм   (SPK)",
+                            "nds": 1,
+                            "ndsSum": 2000,
+                            "paymentType": 4,
+                            "price": 3000,
+                            "productType": 1,
+                            "quantity": 4,
+                            "sum": 12000
+                        },
+                        {
+                            "name": "20*3,4   мм    ТРУБА PN 20 (SPK)",
+                            "nds": 1,
+                            "ndsSum": 8800,
+                            "paymentType": 4,
+                            "price": 5280,
+                            "productType": 1,
+                            "quantity": 10,
+                            "sum": 52800
+                        },
+                        {
+                            "name": "32*5,4   мм    ТРУБА PN 20 (SPK)",
+                            "nds": 1,
+                            "ndsSum": 23400,
+                            "paymentType": 4,
+                            "price": 14040,
+                            "productType": 1,
+                            "quantity": 10,
+                            "sum": 140400
+                        },
+                        {
+                            "name": "20*3,4  мм   ТРУБА АРМИРОВАННАЯ СТЕКЛОВОЛОКНОМ PN 25  (SPK)",
+                            "nds": 1,
+                            "ndsSum": 22000,
+                            "paymentType": 4,
+                            "price": 6600,
+                            "productType": 1,
+                            "quantity": 20,
+                            "sum": 132000
+                        },
+                        {
+                            "name": "32*5,4  мм   ТРУБА АРМИРОВАННАЯ СТЕКЛОВОЛОКНОМ PN 25  (SPK)",
+                            "nds": 1,
+                            "ndsSum": 26100,
+                            "paymentType": 4,
+                            "price": 15660,
+                            "productType": 1,
+                            "quantity": 10,
+                            "sum": 156600
+                        },
+                        {
+                            "name": "Опора одинарная   25 мм  (SPK)",
+                            "nds": 1,
+                            "ndsSum": 4500,
+                            "paymentType": 4,
+                            "price": 540,
+                            "productType": 1,
+                            "quantity": 50,
+                            "sum": 27000
+                        },
+                        {
+                            "name": "Угольник    32мм*45    град. (SPK)",
+                            "nds": 1,
+                            "ndsSum": 3500,
+                            "paymentType": 4,
+                            "price": 2100,
+                            "productType": 1,
+                            "quantity": 10,
+                            "sum": 21000
+                        },
+                        {
+                            "name": "Угольник    32мм*90    град. (SPK)",
+                            "nds": 1,
+                            "ndsSum": 3300,
+                            "paymentType": 4,
+                            "price": 1980,
+                            "productType": 1,
+                            "quantity": 10,
+                            "sum": 19800
+                        },
+                        {
+                            "name": "Обвод муфтовый   25 мм  \"С\" (SPK)",
+                            "nds": 1,
+                            "ndsSum": 880,
+                            "paymentType": 4,
+                            "price": 2640,
+                            "productType": 1,
+                            "quantity": 2,
+                            "sum": 5280
+                        },
+                        {
+                            "name": "Впускной механизм  А18 - 1/2\" с нижней подводкой и металлической резьбой",
+                            "nds": 1,
+                            "ndsSum": 10032,
+                            "paymentType": 4,
+                            "price": 60192,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 60192
+                        },
+                        {
+                            "name": "Обратный клапан 110 ПОЛИТРОН",
+                            "nds": 1,
+                            "ndsSum": 34667,
+                            "paymentType": 4,
+                            "price": 208000,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 208000
+                        }
+                    ],
+                    "kktRegId": "0001581560009059    ",
+                    "nds18": 169198,
+                    "operationType": 1,
+                    "operator": "Любенко Татьяна Васильевна",
+                    "prepaidSum": 0,
+                    "properties": {
+                        "propertyName": "Подпись клиента",
+                        "propertyValue": "__________"
+                    },
+                    "provisionSum": 0,
+                    "requestNumber": 105,
+                    "retailPlace": "Магазин",
+                    "retailPlaceAddress": "630075 г.Новосибирск, ул.Народная д.20",
+                    "shiftNumber": 41,
+                    "taxationType": 1,
+                    "appliedTaxationType": 1,
+                    "totalSum": 1015186,
+                    "user": "ООО фирма \"Вариант-А\"",
+                    "userInn": "5407137216  "
+                }
+            }
+        },
+        "createdAt": "2021-11-30T14:16:58+00:00",
+        "timeLastAccess": "2021-11-30T14:16:58+00:00"
+    },
+    {
+        "claims": [],
+        "ticket": {
+            "document": {
+                "receipt": {
+                    "cashTotalSum": 0,
+                    "code": 3,
+                    "creditSum": 0,
+                    "dateTime": "2021-08-05T12:22:00",
+                    "ecashTotalSum": 270754,
+                    "fiscalDocumentFormatVer": 2,
+                    "fiscalDocumentNumber": 11104,
+                    "fiscalDriveNumber": "9280440300671993",
+                    "fiscalSign": 130117110,
+                    "fnsUrl": "www.nalog.ru",
+                    "items": [
+                        {
+                            "name": "Кран шаровый угловой  для стиральных машин (н.р.-н.р.) 1/2*1/2\" ITAP 391",
+                            "nds": 1,
+                            "ndsSum": 8805,
+                            "paymentType": 4,
+                            "price": 26414,
+                            "productType": 1,
+                            "quantity": 2,
+                            "sum": 52828
+                        },
+                        {
+                            "name": "Заглушка РР  кан. D=50",
+                            "nds": 1,
+                            "ndsSum": 442,
+                            "paymentType": 4,
+                            "price": 884,
+                            "productType": 1,
+                            "quantity": 3,
+                            "sum": 2652
+                        },
+                        {
+                            "name": "Отвод РР канализ. 110*87",
+                            "nds": 1,
+                            "ndsSum": 1024,
+                            "paymentType": 4,
+                            "price": 6141,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 6141
+                        },
+                        {
+                            "name": "Отвод РР канализ. 50*45",
+                            "nds": 1,
+                            "ndsSum": 895,
+                            "paymentType": 4,
+                            "price": 1790,
+                            "productType": 1,
+                            "quantity": 3,
+                            "sum": 5371
+                        },
+                        {
+                            "name": "Тройник РР канализ.  50*50/45",
+                            "nds": 1,
+                            "ndsSum": 626,
+                            "paymentType": 4,
+                            "price": 3755,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 3755
+                        },
+                        {
+                            "name": "Труба РР  канал. D=50, L= 0.25 м.",
+                            "nds": 1,
+                            "ndsSum": 608,
+                            "paymentType": 4,
+                            "price": 3646,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 3646
+                        },
+                        {
+                            "name": "Заглушка РР  кан. D=40",
+                            "nds": 1,
+                            "ndsSum": 144,
+                            "paymentType": 4,
+                            "price": 866,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 866
+                        },
+                        {
+                            "name": "Отвод РР канализ. 40x87",
+                            "nds": 1,
+                            "ndsSum": 1249,
+                            "paymentType": 4,
+                            "price": 1873,
+                            "productType": 1,
+                            "quantity": 4,
+                            "sum": 7491
+                        },
+                        {
+                            "name": "Отвод РР канализ. 40x45",
+                            "nds": 1,
+                            "ndsSum": 1249,
+                            "paymentType": 4,
+                            "price": 1873,
+                            "productType": 1,
+                            "quantity": 4,
+                            "sum": 7491
+                        },
+                        {
+                            "name": "Труба РР  канал. D=40, L= 1.0 м.",
+                            "nds": 1,
+                            "ndsSum": 1063,
+                            "paymentType": 4,
+                            "price": 6380,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 6380
+                        },
+                        {
+                            "name": "20*3,4   мм    ТРУБА PN 20 (SPK)",
+                            "nds": 1,
+                            "ndsSum": 8800,
+                            "paymentType": 4,
+                            "price": 5280,
+                            "productType": 1,
+                            "quantity": 10,
+                            "sum": 52800
+                        },
+                        {
+                            "name": "20*3,4  мм   ТРУБА АРМИРОВАННАЯ СТЕКЛОВОЛОКНОМ PN 25  (SPK)",
+                            "nds": 1,
+                            "ndsSum": 6600,
+                            "paymentType": 4,
+                            "price": 6600,
+                            "productType": 1,
+                            "quantity": 6,
+                            "sum": 39600
+                        },
+                        {
+                            "name": "25*4,2  мм   ТРУБА АРМИРОВАННАЯ СТЕКЛОВОЛОКНОМ PN 25  (SPK)",
+                            "nds": 1,
+                            "ndsSum": 3220,
+                            "paymentType": 4,
+                            "price": 9660,
+                            "productType": 1,
+                            "quantity": 2,
+                            "sum": 19320
+                        },
+                        {
+                            "name": "Отвод РР канализ. 50*87",
+                            "nds": 1,
+                            "ndsSum": 895,
+                            "paymentType": 4,
+                            "price": 1790,
+                            "productType": 1,
+                            "quantity": 3,
+                            "sum": 5371
+                        },
+                        {
+                            "name": "Угольник    20мм*90    град. (SPK)",
+                            "nds": 1,
+                            "ndsSum": 3300,
+                            "paymentType": 4,
+                            "price": 660,
+                            "productType": 1,
+                            "quantity": 30,
+                            "sum": 19800
+                        },
+                        {
+                            "name": "Кран шар. 3-х проходной 1/2\" ВР х 3/4\" НР х 1/2\" НР 41.20.205  Comisa",
+                            "nds": 1,
+                            "ndsSum": 6019,
+                            "paymentType": 4,
+                            "price": 36115,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 36115
+                        },
+                        {
+                            "name": "Заглушка РР  кан. D=32",
+                            "nds": 1,
+                            "ndsSum": 188,
+                            "paymentType": 4,
+                            "price": 1127,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 1127
+                        }
+                    ],
+                    "kktRegId": "0001581560009059    ",
+                    "nds18": 45127,
+                    "operationType": 1,
+                    "operator": "Гришаева Светлана Юрьевна",
+                    "prepaidSum": 0,
+                    "properties": {
+                        "propertyName": "Подпись клиента",
+                        "propertyValue": "__________"
+                    },
+                    "provisionSum": 0,
+                    "requestNumber": 104,
+                    "retailPlace": "Магазин",
+                    "retailPlaceAddress": "630075 г.Новосибирск, ул.Народная д.20",
+                    "shiftNumber": 55,
+                    "taxationType": 1,
+                    "appliedTaxationType": 1,
+                    "totalSum": 270754,
+                    "user": "ООО фирма \"Вариант-А\"",
+                    "userInn": "5407137216  "
+                }
+            }
+        },
+        "createdAt": "2021-11-30T14:16:58+00:00",
+        "timeLastAccess": "2021-11-30T14:16:58+00:00"
+    },
+    {
+        "claims": [],
+        "ticket": {
+            "document": {
+                "receipt": {
+                    "cashTotalSum": 0,
+                    "code": 3,
+                    "creditSum": 0,
+                    "dateTime": "2021-08-10T09:36:00",
+                    "ecashTotalSum": 664375,
+                    "fiscalDocumentFormatVer": 2,
+                    "fiscalDocumentNumber": 12002,
+                    "fiscalDriveNumber": "9280440300671993",
+                    "fiscalSign": 770621581,
+                    "fnsUrl": "www.nalog.ru",
+                    "items": [
+                        {
+                            "name": "Кран шаровый угловой с накид. гайкой  1/2\" (н.р.-вн.р) ITAP 298",
+                            "nds": 1,
+                            "ndsSum": 15987,
+                            "paymentType": 4,
+                            "price": 47960,
+                            "productType": 1,
+                            "quantity": 2,
+                            "sum": 95920
+                        },
+                        {
+                            "name": "Уплотнительное кольцо Luxor 509 3/4''",
+                            "nds": 1,
+                            "ndsSum": 1463,
+                            "paymentType": 4,
+                            "price": 2926,
+                            "productType": 1,
+                            "quantity": 3,
+                            "sum": 8778
+                        },
+                        {
+                            "name": "Воздухоотводчик автоматический угловой 1/2\" н.р. ITAP 364",
+                            "nds": 1,
+                            "ndsSum": 5746,
+                            "paymentType": 4,
+                            "price": 34474,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 34474
+                        },
+                        {
+                            "name": "Стабилизатор напряжения АСН-  500/1- Ц  \"Ресанта\" 63/6/1",
+                            "nds": 1,
+                            "ndsSum": 35361,
+                            "paymentType": 4,
+                            "price": 212168,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 212168
+                        },
+                        {
+                            "name": "Подводка  для воды SS 12мм 1/2\" в-н  30см",
+                            "nds": 1,
+                            "ndsSum": 1678,
+                            "paymentType": 4,
+                            "price": 10067,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 10067
+                        },
+                        {
+                            "name": "Угольник вр 1/2\"",
+                            "nds": 1,
+                            "ndsSum": 2174,
+                            "paymentType": 4,
+                            "price": 13042,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 13042
+                        },
+                        {
+                            "name": "Радиатор алюминиевый  YOUMAY  YM-J500EN (80) - (секция)",
+                            "nds": 1,
+                            "ndsSum": 42640,
+                            "paymentType": 4,
+                            "price": 42640,
+                            "productType": 1,
+                            "quantity": 6,
+                            "sum": 255840
+                        },
+                        {
+                            "name": "Кран шаровой латунный 11Б27 ВН/НР ручка-бабочка, 1/2\"",
+                            "nds": 1,
+                            "ndsSum": 5681,
+                            "paymentType": 4,
+                            "price": 17043,
+                            "productType": 1,
+                            "quantity": 2,
+                            "sum": 34086
+                        }
+                    ],
+                    "kktRegId": "0001581560009059    ",
+                    "nds18": 110730,
+                    "operationType": 1,
+                    "operator": "Любенко Татьяна Васильевна",
+                    "prepaidSum": 0,
+                    "properties": {
+                        "propertyName": "Подпись клиента",
+                        "propertyValue": "__________"
+                    },
+                    "provisionSum": 0,
+                    "requestNumber": 15,
+                    "retailPlace": "Магазин",
+                    "retailPlaceAddress": "630075 г.Новосибирск, ул.Народная д.20",
+                    "shiftNumber": 60,
+                    "taxationType": 1,
+                    "appliedTaxationType": 1,
+                    "totalSum": 664375,
+                    "user": "ООО фирма \"Вариант-А\"",
+                    "userInn": "5407137216  "
+                }
+            }
+        },
+        "createdAt": "2021-11-30T14:16:58+00:00",
+        "timeLastAccess": "2021-11-30T14:16:58+00:00"
+    },
+    {
+        "claims": [],
+        "ticket": {
+            "document": {
+                "receipt": {
+                    "buyerPhoneOrAddress": "+79232443038",
+                    "cashTotalSum": 0,
+                    "code": 3,
+                    "creditSum": 0,
+                    "dateTime": "2021-09-09T16:01:00",
+                    "ecashTotalSum": 64400,
+                    "fiscalDocumentFormatVer": 2,
+                    "fiscalDocumentNumber": 84429,
+                    "fiscalDriveNumber": "9285440300301214",
+                    "fiscalSign": 3186691930,
+                    "items": [
+                        {
+                            "name": "Пицца Острая Мясная:Коробка для пиццы",
+                            "nds": 6,
+                            "ndsSum": 0,
+                            "paymentType": 4,
+                            "price": 15800,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 15800
+                        },
+                        {
+                            "name": "Пицца Пепперони:Коробка для пиццы",
+                            "nds": 6,
+                            "ndsSum": 0,
+                            "paymentType": 4,
+                            "price": 15500,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 15500
+                        },
+                        {
+                            "name": "Пицца Гавайская:Коробка для пиццы",
+                            "nds": 6,
+                            "ndsSum": 0,
+                            "paymentType": 4,
+                            "price": 15500,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 15500
+                        },
+                        {
+                            "name": "Картофель фри:Контейнер для горячего, салата",
+                            "nds": 6,
+                            "ndsSum": 0,
+                            "paymentType": 4,
+                            "price": 8800,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 8800
+                        },
+                        {
+                            "name": "Картофель фри:Контейнер для горячего, салата",
+                            "nds": 6,
+                            "ndsSum": 0,
+                            "paymentType": 4,
+                            "price": 8800,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 8800
+                        }
+                    ],
+                    "kktRegId": "0002514734056291    ",
+                    "ndsNo": 64400,
+                    "operationType": 1,
+                    "operator": "Тащева Виктория",
+                    "prepaidSum": 0,
+                    "provisionSum": 0,
+                    "requestNumber": 68,
+                    "retailPlace": "Бар «ДОСКИ»",
+                    "shiftNumber": 304,
+                    "taxationType": 2,
+                    "appliedTaxationType": 2,
+                    "totalSum": 64400,
+                    "user": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ВОКЗАЛЬНАЯ 16\"",
+                    "userInn": "5407969493  "
+                }
+            }
+        },
+        "createdAt": "2021-11-30T14:16:58+00:00",
+        "timeLastAccess": "2021-11-30T14:16:58+00:00"
+    },
+    {
+        "claims": [],
+        "ticket": {
+            "document": {
+                "receipt": {
+                    "cashTotalSum": 0,
+                    "code": 3,
+                    "creditSum": 0,
+                    "dateTime": "2021-09-10T10:05:00",
+                    "ecashTotalSum": 767173,
+                    "fiscalDocumentFormatVer": 2,
+                    "fiscalDocumentNumber": 19276,
+                    "fiscalDriveNumber": "9280440300671993",
+                    "fiscalSign": 428448768,
+                    "fnsUrl": "www.nalog.ru",
+                    "items": [
+                        {
+                            "name": "Заглушка РР  кан. D=50",
+                            "nds": 1,
+                            "ndsSum": 589,
+                            "paymentType": 4,
+                            "price": 884,
+                            "productType": 1,
+                            "quantity": 4,
+                            "sum": 3536
+                        },
+                        {
+                            "name": "Заглушка РР  кан. D=110",
+                            "nds": 1,
+                            "ndsSum": 938,
+                            "paymentType": 4,
+                            "price": 1877,
+                            "productType": 1,
+                            "quantity": 3,
+                            "sum": 5630
+                        },
+                        {
+                            "name": "Отвод РР канализ. D110*45",
+                            "nds": 1,
+                            "ndsSum": 1758,
+                            "paymentType": 4,
+                            "price": 5274,
+                            "productType": 1,
+                            "quantity": 2,
+                            "sum": 10547
+                        },
+                        {
+                            "name": "Тройник D110*110/87,5° для внутренней канализации",
+                            "nds": 1,
+                            "ndsSum": 1594,
+                            "paymentType": 4,
+                            "price": 9566,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 9566
+                        },
+                        {
+                            "name": "Заглушка РР  кан. D=40",
+                            "nds": 1,
+                            "ndsSum": 866,
+                            "paymentType": 4,
+                            "price": 866,
+                            "productType": 1,
+                            "quantity": 6,
+                            "sum": 5196
+                        },
+                        {
+                            "name": "Заглушка РР  кан. D=40",
+                            "nds": 1,
+                            "ndsSum": 578,
+                            "paymentType": 4,
+                            "price": 867,
+                            "productType": 1,
+                            "quantity": 4,
+                            "sum": 3468
+                        },
+                        {
+                            "name": "Труба РР  канал. D=40, L= 0.5 м.",
+                            "nds": 1,
+                            "ndsSum": 1558,
+                            "paymentType": 4,
+                            "price": 4674,
+                            "productType": 1,
+                            "quantity": 2,
+                            "sum": 9347
+                        },
+                        {
+                            "name": "ЗАГЛУШКА РЕЗЬБОВАЯ   1/2\"   (SPK)",
+                            "nds": 1,
+                            "ndsSum": 2000,
+                            "paymentType": 4,
+                            "price": 600,
+                            "productType": 1,
+                            "quantity": 20,
+                            "sum": 12000
+                        },
+                        {
+                            "name": "МУФТА    20  мм   (SPK)",
+                            "nds": 1,
+                            "ndsSum": 900,
+                            "paymentType": 4,
+                            "price": 540,
+                            "productType": 1,
+                            "quantity": 10,
+                            "sum": 5400
+                        },
+                        {
+                            "name": "ТРОЙНИК   20 мм   (SPK)",
+                            "nds": 1,
+                            "ndsSum": 3600,
+                            "paymentType": 4,
+                            "price": 1080,
+                            "productType": 1,
+                            "quantity": 20,
+                            "sum": 21600
+                        },
+                        {
+                            "name": "Тройник комбинированный (в.р.) (20*1/2\" *20)  (SPK)",
+                            "nds": 1,
+                            "ndsSum": 10100,
+                            "paymentType": 4,
+                            "price": 6060,
+                            "productType": 1,
+                            "quantity": 10,
+                            "sum": 60600
+                        },
+                        {
+                            "name": "20*3,4   мм    ТРУБА PN 20 (SPK)",
+                            "nds": 1,
+                            "ndsSum": 8800,
+                            "paymentType": 4,
+                            "price": 5280,
+                            "productType": 1,
+                            "quantity": 10,
+                            "sum": 52800
+                        },
+                        {
+                            "name": "25*4,2   мм    ТРУБА PN 20 (SPK)",
+                            "nds": 1,
+                            "ndsSum": 13900,
+                            "paymentType": 4,
+                            "price": 8340,
+                            "productType": 1,
+                            "quantity": 10,
+                            "sum": 83400
+                        },
+                        {
+                            "name": "20*3,4  мм   ТРУБА АРМИРОВАННАЯ СТЕКЛОВОЛОКНОМ PN 25  (SPK)",
+                            "nds": 1,
+                            "ndsSum": 11000,
+                            "paymentType": 4,
+                            "price": 6600,
+                            "productType": 1,
+                            "quantity": 10,
+                            "sum": 66000
+                        },
+                        {
+                            "name": "25*4,2  мм   ТРУБА АРМИРОВАННАЯ СТЕКЛОВОЛОКНОМ PN 25  (SPK)",
+                            "nds": 1,
+                            "ndsSum": 16100,
+                            "paymentType": 4,
+                            "price": 9660,
+                            "productType": 1,
+                            "quantity": 10,
+                            "sum": 96600
+                        },
+                        {
+                            "name": "Угольник    20мм*45    град. (SPK)",
+                            "nds": 1,
+                            "ndsSum": 2800,
+                            "paymentType": 4,
+                            "price": 840,
+                            "productType": 1,
+                            "quantity": 20,
+                            "sum": 16800
+                        },
+                        {
+                            "name": "Угольник  комбинированный (вн.р.)  (20*1/2'')  (SPK)",
+                            "nds": 1,
+                            "ndsSum": 17800,
+                            "paymentType": 4,
+                            "price": 5340,
+                            "productType": 1,
+                            "quantity": 20,
+                            "sum": 106800
+                        },
+                        {
+                            "name": "Угольник    20мм*90    град. (SPK)",
+                            "nds": 1,
+                            "ndsSum": 3300,
+                            "paymentType": 4,
+                            "price": 660,
+                            "productType": 1,
+                            "quantity": 30,
+                            "sum": 19800
+                        },
+                        {
+                            "name": "КРАН ШАРОВЫЙ  50  (SPK)",
+                            "nds": 1,
+                            "ndsSum": 16840,
+                            "paymentType": 4,
+                            "price": 101040,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 101040
+                        },
+                        {
+                            "name": "50*4,6   мм    ТРУБА PN 10  РОСТУРПЛАСТ",
+                            "nds": 1,
+                            "ndsSum": 12841,
+                            "paymentType": 4,
+                            "price": 19261,
+                            "productType": 1,
+                            "quantity": 4,
+                            "sum": 77043
+                        }
+                    ],
+                    "kktRegId": "0001581560009059    ",
+                    "nds18": 127862,
+                    "operationType": 1,
+                    "operator": "Гришаева Светлана Юрьевна",
+                    "prepaidSum": 0,
+                    "properties": {
+                        "propertyName": "Подпись клиента",
+                        "propertyValue": "__________"
+                    },
+                    "provisionSum": 0,
+                    "requestNumber": 38,
+                    "retailPlace": "Магазин",
+                    "retailPlaceAddress": "630075 г.Новосибирск, ул.Народная д.20",
+                    "shiftNumber": 91,
+                    "taxationType": 1,
+                    "appliedTaxationType": 1,
+                    "totalSum": 767173,
+                    "user": "ООО фирма \"Вариант-А\"",
+                    "userInn": "5407137216  "
+                }
+            }
+        },
+        "createdAt": "2021-11-30T14:16:58+00:00",
+        "timeLastAccess": "2021-11-30T14:16:58+00:00"
+    },
+    {
+        "claims": [],
+        "ticket": {
+            "document": {
+                "receipt": {
+                    "cashTotalSum": 0,
+                    "code": 3,
+                    "creditSum": 0,
+                    "dateTime": "2021-09-30T12:43:00",
+                    "ecashTotalSum": 633470,
+                    "fiscalDocumentFormatVer": 2,
+                    "fiscalDocumentNumber": 24908,
+                    "fiscalDriveNumber": "9280440300671993",
+                    "fiscalSign": 2855279403,
+                    "fnsUrl": "www.nalog.ru",
+                    "items": [
+                        {
+                            "name": "Теплоноситель \"ОАЗИС-65\",  (на основе этиленгликоля, в 20л канистре 20кг)",
+                            "nds": 1,
+                            "ndsSum": 36834,
+                            "paymentType": 4,
+                            "price": 221006,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 221006
+                        },
+                        {
+                            "name": "Расширительный бак Unipump 12 л верт.",
+                            "nds": 1,
+                            "ndsSum": 17530,
+                            "paymentType": 4,
+                            "price": 105177,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 105177
+                        },
+                        {
+                            "name": "Термометр биметаллический накладной (03.08.060 Watts FR810(TAB) 63/120, 63mm",
+                            "nds": 1,
+                            "ndsSum": 5744,
+                            "paymentType": 4,
+                            "price": 34462,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 34462
+                        },
+                        {
+                            "name": "Клапан предохр. вн. рез. с манометром 1/2\" (1,5)  RBM",
+                            "nds": 1,
+                            "ndsSum": 12908,
+                            "paymentType": 4,
+                            "price": 77450,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 77450
+                        },
+                        {
+                            "name": "Воздухоотводчик автоматический 1/2\" н.р. ITAP 362 прямое подключение (латунь)",
+                            "nds": 1,
+                            "ndsSum": 4786,
+                            "paymentType": 4,
+                            "price": 28717,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 28717
+                        },
+                        {
+                            "name": "Муфта комб. разъемная   (в.р.)   32*1\"  (SPK)",
+                            "nds": 1,
+                            "ndsSum": 3278,
+                            "paymentType": 4,
+                            "price": 19669,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 19669
+                        },
+                        {
+                            "name": "Муфта комб. разъемная   (н.р.)   32*1\"  (SPK)",
+                            "nds": 1,
+                            "ndsSum": 10459,
+                            "paymentType": 4,
+                            "price": 20918,
+                            "productType": 1,
+                            "quantity": 3,
+                            "sum": 62753
+                        },
+                        {
+                            "name": "Подводка  для воды SS 12мм 1/2\" в-в  80см",
+                            "nds": 1,
+                            "ndsSum": 1957,
+                            "paymentType": 4,
+                            "price": 11742,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 11742
+                        },
+                        {
+                            "name": "Муфта нр-вр 1\"х11/4\" редукционная, никель",
+                            "nds": 1,
+                            "ndsSum": 4299,
+                            "paymentType": 4,
+                            "price": 25793,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 25793
+                        },
+                        {
+                            "name": "Муфта нр-вр 1/2\"х1\" редукцинная, шестигранная",
+                            "nds": 1,
+                            "ndsSum": 1927,
+                            "paymentType": 4,
+                            "price": 11560,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 11560
+                        },
+                        {
+                            "name": "Муфта нр-нр 1\"х1/2\" редукционная, никелированная",
+                            "nds": 1,
+                            "ndsSum": 2348,
+                            "paymentType": 4,
+                            "price": 14088,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 14088
+                        },
+                        {
+                            "name": "Угольник вр 1/2\" никелированный",
+                            "nds": 1,
+                            "ndsSum": 1879,
+                            "paymentType": 4,
+                            "price": 11271,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 11271
+                        },
+                        {
+                            "name": "Тройник комбинированный (н.р.) (32*1/2\" *32)  (SPK)",
+                            "nds": 1,
+                            "ndsSum": 1630,
+                            "paymentType": 4,
+                            "price": 9782,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 9782
+                        }
+                    ],
+                    "kktRegId": "0001581560009059    ",
+                    "nds18": 105579,
+                    "operationType": 1,
+                    "operator": "Любенко Татьяна Васильевна",
+                    "prepaidSum": 0,
+                    "properties": {
+                        "propertyName": "Подпись клиента",
+                        "propertyValue": "__________"
+                    },
+                    "provisionSum": 0,
+                    "requestNumber": 127,
+                    "retailPlace": "Магазин",
+                    "retailPlaceAddress": "630075 г.Новосибирск, ул.Народная д.20",
+                    "shiftNumber": 111,
+                    "taxationType": 1,
+                    "appliedTaxationType": 1,
+                    "totalSum": 633470,
+                    "user": "ООО фирма \"Вариант-А\"",
+                    "userInn": "5407137216  "
+                }
+            }
+        },
+        "createdAt": "2021-11-30T14:16:58+00:00",
+        "timeLastAccess": "2021-11-30T14:16:58+00:00"
+    },
+    {
+        "claims": [],
+        "ticket": {
+            "document": {
+                "receipt": {
+                    "cashTotalSum": 0,
+                    "code": 3,
+                    "creditSum": 0,
+                    "dateTime": "2021-10-01T18:43:00",
+                    "ecashTotalSum": 5663710,
+                    "fiscalDocumentFormatVer": 2,
+                    "fiscalDocumentNumber": 25313,
+                    "fiscalDriveNumber": "9280440300671993",
+                    "fiscalSign": 4214283797,
+                    "fnsUrl": "www.nalog.ru",
+                    "items": [
+                        {
+                            "name": "Радиатор алюминиевый ROMMER Plus 500 - (секция)",
+                            "nds": 1,
+                            "ndsSum": 347776,
+                            "paymentType": 4,
+                            "price": 53504,
+                            "productType": 1,
+                            "quantity": 39,
+                            "sum": 2086656
+                        },
+                        {
+                            "name": "Комплект для подключения радиатора ROMMER 1/2\" (7 в 1 без кронштейнов)",
+                            "nds": 1,
+                            "ndsSum": 16500,
+                            "paymentType": 4,
+                            "price": 19800,
+                            "productType": 1,
+                            "quantity": 5,
+                            "sum": 99000
+                        },
+                        {
+                            "name": "Кран шаровый угловой с накид.гайкой 1/2\" (н.р.-вн.р) полнопроходной ITAP 298",
+                            "nds": 1,
+                            "ndsSum": 69053,
+                            "paymentType": 4,
+                            "price": 51790,
+                            "productType": 1,
+                            "quantity": 8,
+                            "sum": 414320
+                        },
+                        {
+                            "name": "Кран шаровый угловой с накид.гайкой 1/2\" (н.р.-вн.р) полнопроходной ITAP 298",
+                            "nds": 1,
+                            "ndsSum": 17264,
+                            "paymentType": 4,
+                            "price": 51791,
+                            "productType": 1,
+                            "quantity": 2,
+                            "sum": 103582
+                        },
+                        {
+                            "name": "Муфта комбинированная (н.р.)  20*1/2\" (SPK)",
+                            "nds": 1,
+                            "ndsSum": 14400,
+                            "paymentType": 4,
+                            "price": 5760,
+                            "productType": 1,
+                            "quantity": 15,
+                            "sum": 86400
+                        },
+                        {
+                            "name": "20*3,4  мм   ТРУБА АРМИРОВАННАЯ СТЕКЛОВОЛОКНОМ PN 25  (SPK)",
+                            "nds": 1,
+                            "ndsSum": 11000,
+                            "paymentType": 4,
+                            "price": 6600,
+                            "productType": 1,
+                            "quantity": 10,
+                            "sum": 66000
+                        },
+                        {
+                            "name": "25*4,2  мм   ТРУБА АРМИРОВАННАЯ СТЕКЛОВОЛОКНОМ PN 25  (SPK)",
+                            "nds": 1,
+                            "ndsSum": 19320,
+                            "paymentType": 4,
+                            "price": 9660,
+                            "productType": 1,
+                            "quantity": 12,
+                            "sum": 115920
+                        },
+                        {
+                            "name": "Опора одинарная   25 мм  (SPK)",
+                            "nds": 1,
+                            "ndsSum": 2700,
+                            "paymentType": 4,
+                            "price": 540,
+                            "productType": 1,
+                            "quantity": 30,
+                            "sum": 16200
+                        },
+                        {
+                            "name": "Кабельный бандаж (стяжка) 3 *200, белый (100 шт.)",
+                            "nds": 1,
+                            "ndsSum": 6364,
+                            "paymentType": 4,
+                            "price": 12727,
+                            "productType": 1,
+                            "quantity": 3,
+                            "sum": 38181
+                        },
+                        {
+                            "name": "Кабельный бандаж (стяжка) 3 *200, белый (100 шт.)",
+                            "nds": 1,
+                            "ndsSum": 4243,
+                            "paymentType": 4,
+                            "price": 12728,
+                            "productType": 1,
+                            "quantity": 2,
+                            "sum": 25456
+                        },
+                        {
+                            "name": "Кронштейн угловой универсальный усиленный белый \"Элеганс\" 1,7 (К7.8) 65х118 мм",
+                            "nds": 1,
+                            "ndsSum": 7040,
+                            "paymentType": 4,
+                            "price": 2816,
+                            "productType": 1,
+                            "quantity": 15,
+                            "sum": 42240
+                        },
+                        {
+                            "name": "Насос циркуляционный UNIPUMP UPC 25-60 130",
+                            "nds": 1,
+                            "ndsSum": 42401,
+                            "paymentType": 4,
+                            "price": 254408,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 254408
+                        },
+                        {
+                            "name": "16*2 КРАСНАЯ труба PE-RT RoyalThermo с антидиффузионным слоем (кратно 100 м)",
+                            "nds": 1,
+                            "ndsSum": 252267,
+                            "paymentType": 4,
+                            "price": 3784,
+                            "productType": 1,
+                            "quantity": 400,
+                            "sum": 1513600
+                        },
+                        {
+                            "name": "PRO AQUA Коллекторный блок с расходомерами 6 выходов, 380 мм, 1 x 3/4\"",
+                            "nds": 1,
+                            "ndsSum": 133625,
+                            "paymentType": 4,
+                            "price": 801747,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 801747
+                        }
+                    ],
+                    "kktRegId": "0001581560009059    ",
+                    "nds18": 943953,
+                    "operationType": 1,
+                    "operator": "Замосковцева Юлия Владимировна",
+                    "prepaidSum": 0,
+                    "properties": {
+                        "propertyName": "Подпись клиента",
+                        "propertyValue": "__________"
+                    },
+                    "provisionSum": 0,
+                    "requestNumber": 261,
+                    "retailPlace": "Магазин",
+                    "retailPlaceAddress": "630075 г.Новосибирск, ул.Народная д.20",
+                    "shiftNumber": 112,
+                    "taxationType": 1,
+                    "appliedTaxationType": 1,
+                    "totalSum": 5663710,
+                    "user": "ООО фирма \"Вариант-А\"",
+                    "userInn": "5407137216  "
+                }
+            }
+        },
+        "createdAt": "2021-11-30T14:16:58+00:00",
+        "timeLastAccess": "2021-11-30T14:16:58+00:00"
+    },
+    {
+        "claims": [],
+        "ticket": {
+            "document": {
+                "receipt": {
+                    "cashTotalSum": 0,
+                    "code": 3,
+                    "creditSum": 0,
+                    "dateTime": "2021-10-07T15:31:00",
+                    "ecashTotalSum": 327544,
+                    "fiscalDocumentFormatVer": 2,
+                    "fiscalDocumentNumber": 26726,
+                    "fiscalDriveNumber": "9280440300671993",
+                    "fiscalSign": 2889293771,
+                    "fnsUrl": "www.nalog.ru",
+                    "items": [
+                        {
+                            "name": "Воздухоотводчик автоматический 1/2\" н.р. ITAP 362 прямое подключение (латунь)",
+                            "nds": 1,
+                            "ndsSum": 5533,
+                            "paymentType": 4,
+                            "price": 33197,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 33197
+                        },
+                        {
+                            "name": "Герметик \"Момент\" 280 мл  силикон  универс, белый",
+                            "nds": 1,
+                            "ndsSum": 4825,
+                            "paymentType": 4,
+                            "price": 28952,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 28952
+                        },
+                        {
+                            "name": "Сантехмастер гель ЗЕЛЕНЫЙ тюбик 60г",
+                            "nds": 1,
+                            "ndsSum": 4825,
+                            "paymentType": 4,
+                            "price": 28952,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 28952
+                        },
+                        {
+                            "name": "Муфта нр-нр 1/2\"х 1/2\", никелированная",
+                            "nds": 1,
+                            "ndsSum": 2898,
+                            "paymentType": 4,
+                            "price": 4347,
+                            "productType": 1,
+                            "quantity": 4,
+                            "sum": 17389
+                        },
+                        {
+                            "name": "Удлиненный ниппель 1/2\"- 10 мм хром.",
+                            "nds": 1,
+                            "ndsSum": 4459,
+                            "paymentType": 4,
+                            "price": 6688,
+                            "productType": 1,
+                            "quantity": 4,
+                            "sum": 26752
+                        },
+                        {
+                            "name": "Удлиненный ниппель 1/2\"- 20 мм",
+                            "nds": 1,
+                            "ndsSum": 7176,
+                            "paymentType": 4,
+                            "price": 8611,
+                            "productType": 1,
+                            "quantity": 5,
+                            "sum": 43054
+                        },
+                        {
+                            "name": "Уголок для полотенцесушителя 751SCH0404 1/2 в.р х 1/2 н.р хром. (комплект 2шт)",
+                            "nds": 1,
+                            "ndsSum": 24875,
+                            "paymentType": 4,
+                            "price": 74624,
+                            "productType": 1,
+                            "quantity": 2,
+                            "sum": 149248
+                        }
+                    ],
+                    "kktRegId": "0001581560009059    ",
+                    "nds18": 54591,
+                    "operationType": 1,
+                    "operator": "Любенко Татьяна Васильевна",
+                    "prepaidSum": 0,
+                    "properties": {
+                        "propertyName": "Подпись клиента",
+                        "propertyValue": "__________"
+                    },
+                    "provisionSum": 0,
+                    "requestNumber": 170,
+                    "retailPlace": "Магазин",
+                    "retailPlaceAddress": "630075 г.Новосибирск, ул.Народная д.20",
+                    "shiftNumber": 118,
+                    "taxationType": 1,
+                    "appliedTaxationType": 1,
+                    "totalSum": 327544,
+                    "user": "ООО фирма \"Вариант-А\"",
+                    "userInn": "5407137216  "
+                }
+            }
+        },
+        "createdAt": "2021-11-30T14:16:58+00:00",
+        "timeLastAccess": "2021-11-30T14:16:58+00:00"
+    },
+    {
+        "claims": [],
+        "ticket": {
+            "document": {
+                "receipt": {
+                    "cashTotalSum": 0,
+                    "code": 3,
+                    "creditSum": 0,
+                    "dateTime": "2021-10-25T11:33:00",
+                    "ecashTotalSum": 37593,
+                    "fiscalDocumentFormatVer": 2,
+                    "fiscalDocumentNumber": 30585,
+                    "fiscalDriveNumber": "9280440300671993",
+                    "fiscalSign": 3059933264,
+                    "fnsUrl": "www.nalog.ru",
+                    "items": [
+                        {
+                            "name": "Хомут PP (40)",
+                            "nds": 1,
+                            "ndsSum": 381,
+                            "paymentType": 4,
+                            "price": 762,
+                            "productType": 1,
+                            "quantity": 3,
+                            "sum": 2286
+                        },
+                        {
+                            "name": "Хомут PP (40)",
+                            "nds": 1,
+                            "ndsSum": 254,
+                            "paymentType": 4,
+                            "price": 763,
+                            "productType": 1,
+                            "quantity": 2,
+                            "sum": 1526
+                        },
+                        {
+                            "name": "Муфта двухрастр. кан. D40",
+                            "nds": 1,
+                            "ndsSum": 1730,
+                            "paymentType": 4,
+                            "price": 2595,
+                            "productType": 1,
+                            "quantity": 4,
+                            "sum": 10381
+                        },
+                        {
+                            "name": "МУФТА    25  мм   (SPK)",
+                            "nds": 1,
+                            "ndsSum": 1200,
+                            "paymentType": 4,
+                            "price": 720,
+                            "productType": 1,
+                            "quantity": 10,
+                            "sum": 7200
+                        },
+                        {
+                            "name": "Угольник    25мм*90    град. (SPK)",
+                            "nds": 1,
+                            "ndsSum": 2700,
+                            "paymentType": 4,
+                            "price": 1080,
+                            "productType": 1,
+                            "quantity": 15,
+                            "sum": 16200
+                        }
+                    ],
+                    "kktRegId": "0001581560009059    ",
+                    "nds18": 6265,
+                    "operationType": 1,
+                    "operator": "Любенко Татьяна Васильевна",
+                    "prepaidSum": 0,
+                    "properties": {
+                        "propertyName": "Подпись клиента",
+                        "propertyValue": "__________"
+                    },
+                    "provisionSum": 0,
+                    "requestNumber": 58,
+                    "retailPlace": "Магазин",
+                    "retailPlaceAddress": "630075 г.Новосибирск, ул.Народная д.20",
+                    "shiftNumber": 136,
+                    "taxationType": 1,
+                    "appliedTaxationType": 1,
+                    "totalSum": 37593,
+                    "user": "ООО фирма \"Вариант-А\"",
+                    "userInn": "5407137216  "
+                }
+            }
+        },
+        "createdAt": "2021-11-30T14:16:58+00:00",
+        "timeLastAccess": "2021-11-30T14:16:58+00:00"
+    },
+    {
+        "claims": [],
+        "ticket": {
+            "document": {
+                "receipt": {
+                    "cashTotalSum": 0,
+                    "code": 3,
+                    "creditSum": 0,
+                    "dateTime": "2021-10-28T18:30:00",
+                    "ecashTotalSum": 3227177,
+                    "fiscalDocumentFormatVer": 2,
+                    "fiscalDocumentNumber": 31427,
+                    "fiscalDriveNumber": "9280440300671993",
+                    "fiscalSign": 2387943943,
+                    "fnsUrl": "www.nalog.ru",
+                    "items": [
+                        {
+                            "name": "Фитинг коллекторный латунный для металлопластиковой трубы Fitting 16(2.0) x 3/4\" for Euro,  LAVITA",
+                            "nds": 1,
+                            "ndsSum": 30240,
+                            "paymentType": 4,
+                            "price": 15120,
+                            "productType": 1,
+                            "quantity": 12,
+                            "sum": 181440
+                        },
+                        {
+                            "name": "Комплект для подключения радиатора ROMMER 1/2\" (7 в 1 без кронштейнов)",
+                            "nds": 1,
+                            "ndsSum": 3750,
+                            "paymentType": 4,
+                            "price": 22500,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 22500
+                        },
+                        {
+                            "name": "Комплект для подключения радиатора ROMMER 3/4\" (7 в 1 без кронштейнов)",
+                            "nds": 1,
+                            "ndsSum": 4083,
+                            "paymentType": 4,
+                            "price": 24500,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 24500
+                        },
+                        {
+                            "name": "Кран шаровый с накидной  гайкой 3/4\" полнопроходной ITAP IDEAL 098 (бабочка)",
+                            "nds": 1,
+                            "ndsSum": 12255,
+                            "paymentType": 4,
+                            "price": 73530,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 73530
+                        },
+                        {
+                            "name": "Кран шаровый угловой с накид.гайкой 1/2\" (н.р.-вн.р) полнопроходной ITAP 298",
+                            "nds": 1,
+                            "ndsSum": 20552,
+                            "paymentType": 4,
+                            "price": 61655,
+                            "productType": 1,
+                            "quantity": 2,
+                            "sum": 123310
+                        },
+                        {
+                            "name": "Кран шаровый угловой с накид. гайкой  3/4\" (н.р.-вн.р) полнопроходной ITAP 298",
+                            "nds": 1,
+                            "ndsSum": 47928,
+                            "paymentType": 4,
+                            "price": 95855,
+                            "productType": 1,
+                            "quantity": 3,
+                            "sum": 287565
+                        },
+                        {
+                            "name": "Муфта комбинированная (н.р.)  25*3/4\" (SPK)",
+                            "nds": 1,
+                            "ndsSum": 8640,
+                            "paymentType": 4,
+                            "price": 12960,
+                            "productType": 1,
+                            "quantity": 4,
+                            "sum": 51840
+                        },
+                        {
+                            "name": "Муфта комб. разъемная   (в.р.)   25*3/4\"  (SPK)",
+                            "nds": 1,
+                            "ndsSum": 12480,
+                            "paymentType": 4,
+                            "price": 24960,
+                            "productType": 1,
+                            "quantity": 3,
+                            "sum": 74880
+                        },
+                        {
+                            "name": "Муфта комб. разъемная   (н.р.)   25*3/4\"  (SPK)",
+                            "nds": 1,
+                            "ndsSum": 11880,
+                            "paymentType": 4,
+                            "price": 23760,
+                            "productType": 1,
+                            "quantity": 3,
+                            "sum": 71280
+                        },
+                        {
+                            "name": "МУФТА    25  мм   (SPK)",
+                            "nds": 1,
+                            "ndsSum": 1600,
+                            "paymentType": 4,
+                            "price": 960,
+                            "productType": 1,
+                            "quantity": 10,
+                            "sum": 9600
+                        },
+                        {
+                            "name": "Угольник  комбинированный (вн.р.)  (25*3/4'')  (SPK)",
+                            "nds": 1,
+                            "ndsSum": 3440,
+                            "paymentType": 4,
+                            "price": 10320,
+                            "productType": 1,
+                            "quantity": 2,
+                            "sum": 20640
+                        },
+                        {
+                            "name": "Угольник  комбинированный (нар. р.)  (25*3/4'')  (SPK)",
+                            "nds": 1,
+                            "ndsSum": 4320,
+                            "paymentType": 4,
+                            "price": 12960,
+                            "productType": 1,
+                            "quantity": 2,
+                            "sum": 25920
+                        },
+                        {
+                            "name": "Угольник с накидной гайкой 1\" ITAP 162 никель (\"американка\")",
+                            "nds": 1,
+                            "ndsSum": 12920,
+                            "paymentType": 4,
+                            "price": 77520,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 77520
+                        },
+                        {
+                            "name": "КРАН ШАРОВЫЙ  25  (SPK)",
+                            "nds": 1,
+                            "ndsSum": 38720,
+                            "paymentType": 4,
+                            "price": 29040,
+                            "productType": 1,
+                            "quantity": 8,
+                            "sum": 232320
+                        },
+                        {
+                            "name": "Угольник    25мм*45    град. (SPK)",
+                            "nds": 1,
+                            "ndsSum": 5600,
+                            "paymentType": 4,
+                            "price": 1680,
+                            "productType": 1,
+                            "quantity": 20,
+                            "sum": 33600
+                        },
+                        {
+                            "name": "Насосно-смесительный узел PRO AQUA с термоголовкой 1",
+                            "nds": 1,
+                            "ndsSum": 133802,
+                            "paymentType": 4,
+                            "price": 802812,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 802812
+                        },
+                        {
+                            "name": "Радиатор алюминиевый РУССКИЙ РАДИАТОР Фрегат 500*80 - 10 секций",
+                            "nds": 1,
+                            "ndsSum": 119167,
+                            "paymentType": 4,
+                            "price": 715000,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 715000
+                        },
+                        {
+                            "name": "Кронштейн угловой универсальный белый 50*100 мм \"Элеганс\" твек. 7.3",
+                            "nds": 1,
+                            "ndsSum": 1500,
+                            "paymentType": 4,
+                            "price": 3000,
+                            "productType": 1,
+                            "quantity": 3,
+                            "sum": 9000
+                        },
+                        {
+                            "name": "Насос циркуляционный UNIPUMP UPC 25-60 130",
+                            "nds": 1,
+                            "ndsSum": 55067,
+                            "paymentType": 4,
+                            "price": 330400,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 330400
+                        },
+                        {
+                            "name": "Муфта комбинированная (н.р.)  25*1\" (SPK)",
+                            "nds": 1,
+                            "ndsSum": 9920,
+                            "paymentType": 4,
+                            "price": 19840,
+                            "productType": 1,
+                            "quantity": 3,
+                            "sum": 59520
+                        }
+                    ],
+                    "kktRegId": "0001581560009059    ",
+                    "nds18": 537864,
+                    "operationType": 1,
+                    "operator": "Гришаева Светлана Юрьевна",
+                    "prepaidSum": 0,
+                    "properties": {
+                        "propertyName": "Подпись клиента",
+                        "propertyValue": "__________"
+                    },
+                    "provisionSum": 0,
+                    "requestNumber": 223,
+                    "retailPlace": "Магазин",
+                    "retailPlaceAddress": "630075 г.Новосибирск, ул.Народная д.20",
+                    "shiftNumber": 139,
+                    "taxationType": 1,
+                    "appliedTaxationType": 1,
+                    "totalSum": 3227177,
+                    "user": "ООО фирма \"Вариант-А\"",
+                    "userInn": "5407137216  "
+                }
+            }
+        },
+        "createdAt": "2021-11-30T14:16:58+00:00",
+        "timeLastAccess": "2021-11-30T14:16:58+00:00"
+    },
+    {
+        "claims": [],
+        "ticket": {
+            "document": {
+                "receipt": {
+                    "cashTotalSum": 0,
+                    "code": 3,
+                    "creditSum": 0,
+                    "dateTime": "2021-10-28T18:32:00",
+                    "ecashTotalSum": 82826,
+                    "fiscalDocumentFormatVer": 2,
+                    "fiscalDocumentNumber": 31430,
+                    "fiscalDriveNumber": "9280440300671993",
+                    "fiscalSign": 1510593616,
+                    "fnsUrl": "www.nalog.ru",
+                    "items": [
+                        {
+                            "name": "20*3,4  мм   ТРУБА АРМИРОВАННАЯ СТЕКЛОВОЛОКНОМ PN 25  (SPK)",
+                            "nds": 1,
+                            "ndsSum": 11000,
+                            "paymentType": 4,
+                            "price": 6600,
+                            "productType": 1,
+                            "quantity": 10,
+                            "sum": 66000
+                        },
+                        {
+                            "name": "LAVITA Муфта (компресс.) 16x16",
+                            "nds": 1,
+                            "ndsSum": 2804,
+                            "paymentType": 4,
+                            "price": 16826,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 16826
+                        }
+                    ],
+                    "kktRegId": "0001581560009059    ",
+                    "nds18": 13804,
+                    "operationType": 1,
+                    "operator": "Гришаева Светлана Юрьевна",
+                    "prepaidSum": 0,
+                    "properties": {
+                        "propertyName": "Подпись клиента",
+                        "propertyValue": "__________"
+                    },
+                    "provisionSum": 0,
+                    "requestNumber": 226,
+                    "retailPlace": "Магазин",
+                    "retailPlaceAddress": "630075 г.Новосибирск, ул.Народная д.20",
+                    "shiftNumber": 139,
+                    "taxationType": 1,
+                    "appliedTaxationType": 1,
+                    "totalSum": 82826,
+                    "user": "ООО фирма \"Вариант-А\"",
+                    "userInn": "5407137216  "
+                }
+            }
+        },
+        "createdAt": "2021-11-30T14:16:58+00:00",
+        "timeLastAccess": "2021-11-30T14:16:58+00:00"
+    },
+    {
+        "claims": [],
+        "ticket": {
+            "document": {
+                "receipt": {
+                    "cashTotalSum": 0,
+                    "code": 3,
+                    "creditSum": 0,
+                    "dateTime": "2021-10-30T11:54:00",
+                    "ecashTotalSum": 255728,
+                    "fiscalDocumentFormatVer": 2,
+                    "fiscalDocumentNumber": 31775,
+                    "fiscalDriveNumber": "9280440300671993",
+                    "fiscalSign": 2931025312,
+                    "fnsUrl": "www.nalog.ru",
+                    "items": [
+                        {
+                            "name": "Теплоноситель \"ОАЗИС-65\",  (на основе этиленгликоля, в 20л канистре 20кг)",
+                            "nds": 1,
+                            "ndsSum": 42621,
+                            "paymentType": 4,
+                            "price": 255728,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 255728
+                        }
+                    ],
+                    "kktRegId": "0001581560009059    ",
+                    "nds18": 42621,
+                    "operationType": 1,
+                    "operator": "Любенко Татьяна Васильевна",
+                    "prepaidSum": 0,
+                    "properties": {
+                        "propertyName": "Подпись клиента",
+                        "propertyValue": "__________"
+                    },
+                    "provisionSum": 0,
+                    "requestNumber": 73,
+                    "retailPlace": "Магазин",
+                    "retailPlaceAddress": "630075 г.Новосибирск, ул.Народная д.20",
+                    "shiftNumber": 141,
+                    "taxationType": 1,
+                    "appliedTaxationType": 1,
+                    "totalSum": 255728,
+                    "user": "ООО фирма \"Вариант-А\"",
+                    "userInn": "5407137216  "
+                }
+            }
+        },
+        "createdAt": "2021-11-30T14:16:58+00:00",
+        "timeLastAccess": "2021-11-30T14:16:58+00:00"
+    },
+    {
+        "claims": [],
+        "ticket": {
+            "document": {
+                "receipt": {
+                    "cashTotalSum": 0,
+                    "code": 3,
+                    "creditSum": 0,
+                    "dateTime": "2021-11-01T11:15:00",
+                    "ecashTotalSum": 209831,
+                    "fiscalDocumentFormatVer": 2,
+                    "fiscalDocumentNumber": 32082,
+                    "fiscalDriveNumber": "9280440300671993",
+                    "fiscalSign": 940511375,
+                    "fnsUrl": "www.nalog.ru",
+                    "items": [
+                        {
+                            "name": "Кран шаровой латунный 1/2\" LD Pride 47-15-40-В/Н-Б",
+                            "nds": 1,
+                            "ndsSum": 6229,
+                            "paymentType": 4,
+                            "price": 18686,
+                            "productType": 1,
+                            "quantity": 2,
+                            "sum": 37372
+                        },
+                        {
+                            "name": "Кран шаровый угловой  для стиральных машин (н.р.-н.р.) 1/2*1/2\" ITAP 391",
+                            "nds": 1,
+                            "ndsSum": 9496,
+                            "paymentType": 4,
+                            "price": 28489,
+                            "productType": 1,
+                            "quantity": 2,
+                            "sum": 56977
+                        },
+                        {
+                            "name": "Кран шаровый угловой  (н.р.-н.р.) 1/2*3/4\" ITAP 392 для стиральных машин",
+                            "nds": 1,
+                            "ndsSum": 4948,
+                            "paymentType": 4,
+                            "price": 29686,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 29686
+                        },
+                        {
+                            "name": "Тройник D110*110/87,5° для внутренней канализации",
+                            "nds": 1,
+                            "ndsSum": 1594,
+                            "paymentType": 4,
+                            "price": 9566,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 9566
+                        },
+                        {
+                            "name": "Труба РР  канал. D=50, L= 1.5 м.",
+                            "nds": 1,
+                            "ndsSum": 1704,
+                            "paymentType": 4,
+                            "price": 10223,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 10223
+                        },
+                        {
+                            "name": "Труба РР  канал. D=50, L= 0.75  м.",
+                            "nds": 1,
+                            "ndsSum": 1963,
+                            "paymentType": 4,
+                            "price": 5890,
+                            "productType": 1,
+                            "quantity": 2,
+                            "sum": 11779
+                        },
+                        {
+                            "name": "Труба РР  канал. D=40, L= 0.25 м.",
+                            "nds": 1,
+                            "ndsSum": 596,
+                            "paymentType": 4,
+                            "price": 3575,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 3575
+                        },
+                        {
+                            "name": "Угольник    20мм*90    град. (SPK)",
+                            "nds": 1,
+                            "ndsSum": 2200,
+                            "paymentType": 4,
+                            "price": 660,
+                            "productType": 1,
+                            "quantity": 20,
+                            "sum": 13200
+                        },
+                        {
+                            "name": "Кран шар. 3-х проходной 1/2\" ВР х 3/4\" НР х 1/2\" НР 41.20.205  Comisa",
+                            "nds": 1,
+                            "ndsSum": 6242,
+                            "paymentType": 4,
+                            "price": 37453,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 37453
+                        }
+                    ],
+                    "kktRegId": "0001581560009059    ",
+                    "nds18": 34972,
+                    "operationType": 1,
+                    "operator": "Гришаева Светлана Юрьевна",
+                    "prepaidSum": 0,
+                    "properties": {
+                        "propertyName": "Подпись клиента",
+                        "propertyValue": "__________"
+                    },
+                    "provisionSum": 0,
+                    "requestNumber": 54,
+                    "retailPlace": "Магазин",
+                    "retailPlaceAddress": "630075 г.Новосибирск, ул.Народная д.20",
+                    "shiftNumber": 143,
+                    "taxationType": 1,
+                    "appliedTaxationType": 1,
+                    "totalSum": 209831,
+                    "user": "ООО фирма \"Вариант-А\"",
+                    "userInn": "5407137216  "
+                }
+            }
+        },
+        "createdAt": "2021-11-30T14:16:58+00:00",
+        "timeLastAccess": "2021-11-30T14:16:58+00:00"
+    },
+    {
+        "claims": [],
+        "ticket": {
+            "document": {
+                "receipt": {
+                    "cashTotalSum": 0,
+                    "code": 3,
+                    "creditSum": 0,
+                    "dateTime": "2021-11-08T10:12:00",
+                    "ecashTotalSum": 65384,
+                    "fiscalDocumentFormatVer": 2,
+                    "fiscalDocumentNumber": 33305,
+                    "fiscalDriveNumber": "9280440300671993",
+                    "fiscalSign": 3855999427,
+                    "fnsUrl": "www.nalog.ru",
+                    "items": [
+                        {
+                            "name": "Муфта соединительная \"MC Alpine\" 110 мм. L=120мм. MRDC1-GR (замена DC1-GR)",
+                            "nds": 1,
+                            "ndsSum": 10897,
+                            "paymentType": 4,
+                            "price": 65384,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 65384
+                        }
+                    ],
+                    "kktRegId": "0001581560009059    ",
+                    "nds18": 10897,
+                    "operationType": 1,
+                    "operator": "Гришаева Светлана Юрьевна",
+                    "prepaidSum": 0,
+                    "properties": {
+                        "propertyName": "Подпись клиента",
+                        "propertyValue": "__________"
+                    },
+                    "provisionSum": 0,
+                    "requestNumber": 22,
+                    "retailPlace": "Магазин",
+                    "retailPlaceAddress": "630075 г.Новосибирск, ул.Народная д.20",
+                    "shiftNumber": 149,
+                    "taxationType": 1,
+                    "appliedTaxationType": 1,
+                    "totalSum": 65384,
+                    "user": "ООО фирма \"Вариант-А\"",
+                    "userInn": "5407137216  "
+                }
+            }
+        },
+        "createdAt": "2021-11-30T14:16:58+00:00",
+        "timeLastAccess": "2021-11-30T14:16:58+00:00"
+    },
+    {
+        "claims": [],
+        "ticket": {
+            "document": {
+                "receipt": {
+                    "cashTotalSum": 0,
+                    "code": 3,
+                    "creditSum": 0,
+                    "dateTime": "2021-11-08T14:27:00",
+                    "ecashTotalSum": 65384,
+                    "fiscalDocumentFormatVer": 2,
+                    "fiscalDocumentNumber": 33437,
+                    "fiscalDriveNumber": "9280440300671993",
+                    "fiscalSign": 3381247184,
+                    "fnsUrl": "www.nalog.ru",
+                    "items": [
+                        {
+                            "name": "Муфта соединительная \"MC Alpine\" 110 мм. L=120мм. MRDC1-GR (замена DC1-GR)",
+                            "nds": 1,
+                            "ndsSum": 10897,
+                            "paymentType": 4,
+                            "price": 65384,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 65384
+                        }
+                    ],
+                    "kktRegId": "0001581560009059    ",
+                    "nds18": 10897,
+                    "operationType": 2,
+                    "operator": "Выдача Народная",
+                    "prepaidSum": 0,
+                    "properties": {
+                        "propertyName": "Подпись клиента",
+                        "propertyValue": "__________"
+                    },
+                    "provisionSum": 0,
+                    "requestNumber": 154,
+                    "retailPlace": "Магазин",
+                    "retailPlaceAddress": "630075 г.Новосибирск, ул.Народная д.20",
+                    "shiftNumber": 149,
+                    "taxationType": 1,
+                    "appliedTaxationType": 1,
+                    "totalSum": 65384,
+                    "user": "ООО фирма \"Вариант-А\"",
+                    "userInn": "5407137216  "
+                }
+            }
+        },
+        "createdAt": "2021-11-30T14:16:58+00:00",
+        "timeLastAccess": "2021-11-30T14:16:58+00:00"
+    },
+    {
+        "claims": [],
+        "ticket": {
+            "document": {
+                "receipt": {
+                    "buyerPhoneOrAddress": "irishkooo@mail.ru",
+                    "cashTotalSum": 0,
+                    "code": 3,
+                    "creditSum": 0,
+                    "dateTime": "2021-11-15T07:39:00",
+                    "ecashTotalSum": 0,
+                    "fiscalDocumentFormatVer": 2,
+                    "fiscalDocumentNumber": 47220,
+                    "fiscalDriveNumber": "9960440301033605",
+                    "fiscalSign": 140148646,
+                    "internetSign": 1,
+                    "items": [
+                        {
+                            "name": "Картридж Cactus CS-FX10, черный, для лазерного принтера",
+                            "nds": 3,
+                            "ndsSum": 16000,
+                            "paymentType": 4,
+                            "price": 48000,
+                            "productType": 1,
+                            "quantity": 2,
+                            "sum": 96000,
+                            "unit": "шт"
+                        }
+                    ],
+                    "kktRegId": "0005789244005591    ",
+                    "machineNumber": "KZN053940",
+                    "nds18118": 16000,
+                    "operationType": 1,
+                    "prepaidSum": 96000,
+                    "provisionSum": 0,
+                    "requestNumber": 369,
+                    "retailPlace": "ozon.ru",
+                    "sellerAddress": "ExchangeSupportMetazon@ozon.ru",
+                    "shiftNumber": 7,
+                    "taxationType": 1,
+                    "appliedTaxationType": 1,
+                    "totalSum": 96000,
+                    "user": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ИНТЕРНЕТ РЕШЕНИЯ\"",
+                    "userInn": "7704217370  "
+                }
+            }
+        },
+        "createdAt": "2021-11-30T14:16:58+00:00",
+        "timeLastAccess": "2021-11-30T14:16:58+00:00"
+    },
+    {
+        "claims": [],
+        "ticket": {
+            "document": {
+                "receipt": {
+                    "cashTotalSum": 0,
+                    "code": 3,
+                    "creditSum": 0,
+                    "dateTime": "2021-11-17T13:11:00",
+                    "ecashTotalSum": 704152,
+                    "fiscalDocumentFormatVer": 2,
+                    "fiscalDocumentNumber": 35294,
+                    "fiscalDriveNumber": "9280440300671993",
+                    "fiscalSign": 1555813709,
+                    "fnsUrl": "www.nalog.ru",
+                    "items": [
+                        {
+                            "name": "Муфта комбинированная (в.р.)  32*3/4\" (SPK)",
+                            "nds": 1,
+                            "ndsSum": 27200,
+                            "paymentType": 4,
+                            "price": 8160,
+                            "productType": 1,
+                            "quantity": 20,
+                            "sum": 163200
+                        },
+                        {
+                            "name": "32*5,4  мм   ТРУБА АРМИРОВАННАЯ СТЕКЛОВОЛОКНОМ PN 25  (SPK)",
+                            "nds": 1,
+                            "ndsSum": 52200,
+                            "paymentType": 4,
+                            "price": 15660,
+                            "productType": 1,
+                            "quantity": 20,
+                            "sum": 313200
+                        },
+                        {
+                            "name": "Сантехмастер гель ЗЕЛЕНЫЙ тюбик 60г",
+                            "nds": 1,
+                            "ndsSum": 5031,
+                            "paymentType": 4,
+                            "price": 30184,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 30184
+                        },
+                        {
+                            "name": "Муфта нр-нр 3/4\"х3/4\" никелированная",
+                            "nds": 1,
+                            "ndsSum": 12596,
+                            "paymentType": 4,
+                            "price": 9447,
+                            "productType": 1,
+                            "quantity": 8,
+                            "sum": 75576
+                        },
+                        {
+                            "name": "Муфта нр-нр 3/4\"х3/4\" никелированная",
+                            "nds": 1,
+                            "ndsSum": 3149,
+                            "paymentType": 4,
+                            "price": 9446,
+                            "productType": 1,
+                            "quantity": 2,
+                            "sum": 18892
+                        },
+                        {
+                            "name": "Муфта прямая с накидной гайкой 3/4 \"   ITAP 161 никель (\"американка\")",
+                            "nds": 1,
+                            "ndsSum": 9283,
+                            "paymentType": 4,
+                            "price": 27850,
+                            "productType": 1,
+                            "quantity": 2,
+                            "sum": 55700
+                        },
+                        {
+                            "name": "Опора одинарная   32 мм  (SPK)",
+                            "nds": 1,
+                            "ndsSum": 1100,
+                            "paymentType": 4,
+                            "price": 660,
+                            "productType": 1,
+                            "quantity": 10,
+                            "sum": 6600
+                        },
+                        {
+                            "name": "Угольник    32мм*45    град. (SPK)",
+                            "nds": 1,
+                            "ndsSum": 3500,
+                            "paymentType": 4,
+                            "price": 2100,
+                            "productType": 1,
+                            "quantity": 10,
+                            "sum": 21000
+                        },
+                        {
+                            "name": "Угольник    32мм*90    град. (SPK)",
+                            "nds": 1,
+                            "ndsSum": 3300,
+                            "paymentType": 4,
+                            "price": 1980,
+                            "productType": 1,
+                            "quantity": 10,
+                            "sum": 19800
+                        }
+                    ],
+                    "kktRegId": "0001581560009059    ",
+                    "nds18": 117359,
+                    "operationType": 1,
+                    "operator": "Любенко Татьяна Васильевна",
+                    "prepaidSum": 0,
+                    "properties": {
+                        "propertyName": "Подпись клиента",
+                        "propertyValue": "__________"
+                    },
+                    "provisionSum": 0,
+                    "requestNumber": 102,
+                    "retailPlace": "Магазин",
+                    "retailPlaceAddress": "630075 г.Новосибирск, ул.Народная д.20",
+                    "shiftNumber": 158,
+                    "taxationType": 1,
+                    "appliedTaxationType": 1,
+                    "totalSum": 704152,
+                    "user": "ООО фирма \"Вариант-А\"",
+                    "userInn": "5407137216  "
+                }
+            }
+        },
+        "createdAt": "2021-11-30T14:16:58+00:00",
+        "timeLastAccess": "2021-11-30T14:16:58+00:00"
+    },
+    {
+        "claims": [],
+        "ticket": {
+            "document": {
+                "receipt": {
+                    "cashTotalSum": 0,
+                    "code": 3,
+                    "creditSum": 0,
+                    "dateTime": "2021-11-17T18:59:00",
+                    "ecashTotalSum": 471000,
+                    "fiscalDocumentFormatVer": 2,
+                    "fiscalDocumentNumber": 35424,
+                    "fiscalDriveNumber": "9280440300671993",
+                    "fiscalSign": 1804831720,
+                    "fnsUrl": "www.nalog.ru",
+                    "items": [
+                        {
+                            "name": "Муфта комбинированная (в.р.)  25*3/4\" (SPK)",
+                            "nds": 1,
+                            "ndsSum": 4760,
+                            "paymentType": 4,
+                            "price": 7140,
+                            "productType": 1,
+                            "quantity": 4,
+                            "sum": 28560
+                        },
+                        {
+                            "name": "Муфта комбинированная (н.р.)  25*1/2\" (SPK)",
+                            "nds": 1,
+                            "ndsSum": 16200,
+                            "paymentType": 4,
+                            "price": 6480,
+                            "productType": 1,
+                            "quantity": 15,
+                            "sum": 97200
+                        },
+                        {
+                            "name": "Муфта комбинированная (н.р.)  25*3/4\" (SPK)",
+                            "nds": 1,
+                            "ndsSum": 6480,
+                            "paymentType": 4,
+                            "price": 9720,
+                            "productType": 1,
+                            "quantity": 4,
+                            "sum": 38880
+                        },
+                        {
+                            "name": "Муфта переходная внутр. 32*25 мм (SPK)",
+                            "nds": 1,
+                            "ndsSum": 1380,
+                            "paymentType": 4,
+                            "price": 1380,
+                            "productType": 1,
+                            "quantity": 6,
+                            "sum": 8280
+                        },
+                        {
+                            "name": "25*4,2  мм   ТРУБА АРМИРОВАННАЯ СТЕКЛОВОЛОКНОМ PN 25  (SPK)",
+                            "nds": 1,
+                            "ndsSum": 25760,
+                            "paymentType": 4,
+                            "price": 9660,
+                            "productType": 1,
+                            "quantity": 16,
+                            "sum": 154560
+                        },
+                        {
+                            "name": "32*5,4  мм   ТРУБА АРМИРОВАННАЯ СТЕКЛОВОЛОКНОМ PN 25  (SPK)",
+                            "nds": 1,
+                            "ndsSum": 10440,
+                            "paymentType": 4,
+                            "price": 15660,
+                            "productType": 1,
+                            "quantity": 4,
+                            "sum": 62640
+                        },
+                        {
+                            "name": "Угольник  комбинированный (нар. р.)  (25*1/2'')  (SPK)",
+                            "nds": 1,
+                            "ndsSum": 8680,
+                            "paymentType": 4,
+                            "price": 7440,
+                            "productType": 1,
+                            "quantity": 7,
+                            "sum": 52080
+                        },
+                        {
+                            "name": "Опора одинарная   25 мм  (SPK)",
+                            "nds": 1,
+                            "ndsSum": 900,
+                            "paymentType": 4,
+                            "price": 540,
+                            "productType": 1,
+                            "quantity": 10,
+                            "sum": 5400
+                        },
+                        {
+                            "name": "Угольник    25мм*45    град. (SPK)",
+                            "nds": 1,
+                            "ndsSum": 2100,
+                            "paymentType": 4,
+                            "price": 1260,
+                            "productType": 1,
+                            "quantity": 10,
+                            "sum": 12600
+                        },
+                        {
+                            "name": "Угольник    25мм*90    град. (SPK)",
+                            "nds": 1,
+                            "ndsSum": 1800,
+                            "paymentType": 4,
+                            "price": 1080,
+                            "productType": 1,
+                            "quantity": 10,
+                            "sum": 10800
+                        }
+                    ],
+                    "kktRegId": "0001581560009059    ",
+                    "nds18": 78500,
+                    "operationType": 1,
+                    "operator": "Любенко Татьяна Васильевна",
+                    "prepaidSum": 0,
+                    "properties": {
+                        "propertyName": "Подпись клиента",
+                        "propertyValue": "__________"
+                    },
+                    "provisionSum": 0,
+                    "requestNumber": 232,
+                    "retailPlace": "Магазин",
+                    "retailPlaceAddress": "630075 г.Новосибирск, ул.Народная д.20",
+                    "shiftNumber": 158,
+                    "taxationType": 1,
+                    "appliedTaxationType": 1,
+                    "totalSum": 471000,
+                    "user": "ООО фирма \"Вариант-А\"",
+                    "userInn": "5407137216  "
+                }
+            }
+        },
+        "createdAt": "2021-11-30T14:16:58+00:00",
+        "timeLastAccess": "2021-11-30T14:16:58+00:00"
+    },
+    {
+        "claims": [],
+        "ticket": {
+            "document": {
+                "receipt": {
+                    "cashTotalSum": 0,
+                    "code": 3,
+                    "creditSum": 0,
+                    "dateTime": "2021-11-19T11:02:00",
+                    "ecashTotalSum": 4252,
+                    "fiscalDocumentFormatVer": 2,
+                    "fiscalDocumentNumber": 35698,
+                    "fiscalDriveNumber": "9280440300671993",
+                    "fiscalSign": 640520847,
+                    "fnsUrl": "www.nalog.ru",
+                    "items": [
+                        {
+                            "name": "Прокладка 3/4\"",
+                            "nds": 1,
+                            "ndsSum": 93,
+                            "paymentType": 4,
+                            "price": 139,
+                            "productType": 1,
+                            "quantity": 4,
+                            "sum": 556
+                        },
+                        {
+                            "name": "Прокладка фибровая 3/4\" зел. RR650",
+                            "nds": 1,
+                            "ndsSum": 323,
+                            "paymentType": 4,
+                            "price": 484,
+                            "productType": 1,
+                            "quantity": 4,
+                            "sum": 1936
+                        },
+                        {
+                            "name": "Прокладка 3/4\" силикон",
+                            "nds": 1,
+                            "ndsSum": 293,
+                            "paymentType": 4,
+                            "price": 440,
+                            "productType": 1,
+                            "quantity": 4,
+                            "sum": 1760
+                        }
+                    ],
+                    "kktRegId": "0001581560009059    ",
+                    "nds18": 709,
+                    "operationType": 1,
+                    "operator": "Любенко Татьяна Васильевна",
+                    "prepaidSum": 0,
+                    "properties": {
+                        "propertyName": "Подпись клиента",
+                        "propertyValue": "__________"
+                    },
+                    "provisionSum": 0,
+                    "requestNumber": 40,
+                    "retailPlace": "Магазин",
+                    "retailPlaceAddress": "630075 г.Новосибирск, ул.Народная д.20",
+                    "shiftNumber": 162,
+                    "taxationType": 1,
+                    "appliedTaxationType": 1,
+                    "totalSum": 4252,
+                    "user": "ООО фирма \"Вариант-А\"",
+                    "userInn": "5407137216  "
+                }
+            }
+        },
+        "createdAt": "2021-11-30T14:16:58+00:00",
+        "timeLastAccess": "2021-11-30T14:16:58+00:00"
+    },
+    {
+        "claims": [],
+        "ticket": {
+            "document": {
+                "receipt": {
+                    "cashTotalSum": 0,
+                    "code": 3,
+                    "creditSum": 0,
+                    "dateTime": "2021-11-22T09:40:00",
+                    "ecashTotalSum": 156376,
+                    "fiscalDocumentFormatVer": 2,
+                    "fiscalDocumentNumber": 36203,
+                    "fiscalDriveNumber": "9280440300671993",
+                    "fiscalSign": 1911426003,
+                    "fnsUrl": "www.nalog.ru",
+                    "items": [
+                        {
+                            "name": "Комплект для подключения радиатора ROMMER 3/4\" (7 в 1 без кронштейнов)",
+                            "nds": 1,
+                            "ndsSum": 3593,
+                            "paymentType": 4,
+                            "price": 21560,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 21560
+                        },
+                        {
+                            "name": "Кран шаровый с накидной  гайкой 3/4\" полнопроходной ITAP IDEAL 098 (бабочка)",
+                            "nds": 1,
+                            "ndsSum": 20588,
+                            "paymentType": 4,
+                            "price": 61765,
+                            "productType": 1,
+                            "quantity": 2,
+                            "sum": 123530
+                        },
+                        {
+                            "name": "Удлиненный ниппель 3/4\"- 15 мм хромированный",
+                            "nds": 1,
+                            "ndsSum": 1881,
+                            "paymentType": 4,
+                            "price": 11286,
+                            "productType": 1,
+                            "quantity": 1,
+                            "sum": 11286
+                        }
+                    ],
+                    "kktRegId": "0001581560009059    ",
+                    "nds18": 26062,
+                    "operationType": 1,
+                    "operator": "Гришаева Светлана Юрьевна",
+                    "prepaidSum": 0,
+                    "properties": {
+                        "propertyName": "Подпись клиента",
+                        "propertyValue": "__________"
+                    },
+                    "provisionSum": 0,
+                    "requestNumber": 14,
+                    "retailPlace": "Магазин",
+                    "retailPlaceAddress": "630075 г.Новосибирск, ул.Народная д.20",
+                    "shiftNumber": 165,
+                    "taxationType": 1,
+                    "appliedTaxationType": 1,
+                    "totalSum": 156376,
+                    "user": "ООО фирма \"Вариант-А\"",
+                    "userInn": "5407137216  "
+                }
+            }
+        },
+        "createdAt": "2021-11-30T14:16:58+00:00",
+        "timeLastAccess": "2021-11-30T14:16:58+00:00"
+    },
+    {
+        "claims": [],
+        "ticket": {
+            "document": {
+                "receipt": {
+                    "cashTotalSum": 0,
+                    "code": 3,
+                    "creditSum": 0,
+                    "dateTime": "2021-11-22T09:41:00",
+                    "ecashTotalSum": 447569,
+                    "fiscalDocumentFormatVer": 2,
+                    "fiscalDocumentNumber": 36204,
+                    "fiscalDriveNumber": "9280440300671993",
+                    "fiscalSign": 2872478615,
+                    "fnsUrl": "www.nalog.ru",
+                    "items": [
+                        {
+                            "name": "Комплект для подключения радиатора ROMMER 3/4\" (7 в 1 без кронштейнов)",
+                            "nds": 1,
+                            "ndsSum": 7187,
+                            "paymentType": 4,
+                            "price": 21560,
+                            "productType": 1,
+                            "quantity": 2,
+                            "sum": 43120
+                        },
+                        {
+                            "name": "Кран шаровый с накидной  гайкой 3/4\" полнопроходной ITAP IDEAL 098 (бабочка)",
+                            "nds": 1,
+                            "ndsSum": 61765,
+                            "paymentType": 4,
+                            "price": 61765,
+                            "productType": 1,
+                            "quantity": 6,
+                            "sum": 370591
+                        },
+                        {
+                            "name": "Удлиненный ниппель 3/4\"- 15 мм хромированный",
+                            "nds": 1,
+                            "ndsSum": 5643,
+                            "paymentType": 4,
+                            "price": 11286,
+                            "productType": 1,
+                            "quantity": 3,
+                            "sum": 33858
+                        }
+                    ],
+                    "kktRegId": "0001581560009059    ",
+                    "nds18": 74595,
+                    "operationType": 1,
+                    "operator": "Гришаева Светлана Юрьевна",
+                    "prepaidSum": 0,
+                    "properties": {
+                        "propertyName": "Подпись клиента",
+                        "propertyValue": "__________"
+                    },
+                    "provisionSum": 0,
+                    "requestNumber": 15,
+                    "retailPlace": "Магазин",
+                    "retailPlaceAddress": "630075 г.Новосибирск, ул.Народная д.20",
+                    "shiftNumber": 165,
+                    "taxationType": 1,
+                    "appliedTaxationType": 1,
+                    "totalSum": 447569,
+                    "user": "ООО фирма \"Вариант-А\"",
+                    "userInn": "5407137216  "
+                }
+            }
+        },
+        "createdAt": "2021-11-30T14:16:58+00:00",
+        "timeLastAccess": "2021-11-30T14:16:58+00:00"
+    },
+    {
+        "claims": [],
+        "ticket": {
+            "document": {
+                "receipt": {
+                    "cashTotalSum": 0,
+                    "code": 3,
+                    "creditSum": 0,
+                    "dateTime": "2021-11-22T09:41:00",
+                    "ecashTotalSum": 176060,
+                    "fiscalDocumentFormatVer": 2,
+                    "fiscalDocumentNumber": 36205,
+                    "fiscalDriveNumber": "9280440300671993",
+                    "fiscalSign": 1945608985,
+                    "fnsUrl": "www.nalog.ru",
+                    "items": [
+                        {
+                            "name": "Муфта комбинированная (в.р.)  25*3/4\" (SPK)",
+                            "nds": 1,
+                            "ndsSum": 2380,
+                            "paymentType": 4,
+                            "price": 7140,
+                            "productType": 1,
+                            "quantity": 2,
+                            "sum": 14280
+                        },
+                        {
+                            "name": "Муфта комбинированная (н.р.)  25*1/2\" (SPK)",
+                            "nds": 1,
+                            "ndsSum": 2160,
+                            "paymentType": 4,
+                            "price": 6480,
+                            "productType": 1,
+                            "quantity": 2,
+                            "sum": 12960
+                        },
+                        {
+                            "name": "25*4,2  мм   ТРУБА АРМИРОВАННАЯ СТЕКЛОВОЛОКНОМ PN 25  (SPK)",
+                            "nds": 1,
+                            "ndsSum": 9660,
+                            "paymentType": 4,
+                            "price": 9660,
+                            "productType": 1,
+                            "quantity": 6,
+                            "sum": 57960
+                        },
+                        {
+                            "name": "Угольник  комбинированный (нар. р.)  (25*1/2'')  (SPK)",
+                            "nds": 1,
+                            "ndsSum": 4960,
+                            "paymentType": 4,
+                            "price": 7440,
+                            "productType": 1,
+                            "quantity": 4,
+                            "sum": 29760
+                        },
+                        {
+                            "name": "Муфта прямая с накидной гайкой 3/4 \"   ITAP 161 никель (\"американка\")",
+                            "nds": 1,
+                            "ndsSum": 9283,
+                            "paymentType": 4,
+                            "price": 27850,
+                            "productType": 1,
+                            "quantity": 2,
+                            "sum": 55700
+                        },
+                        {
+                            "name": "Опора одинарная   25 мм  (SPK)",
+                            "nds": 1,
+                            "ndsSum": 900,
+                            "paymentType": 4,
+                            "price": 540,
+                            "productType": 1,
+                            "quantity": 10,
+                            "sum": 5400
+                        }
+                    ],
+                    "kktRegId": "0001581560009059    ",
+                    "nds18": 29343,
+                    "operationType": 1,
+                    "operator": "Гришаева Светлана Юрьевна",
+                    "prepaidSum": 0,
+                    "properties": {
+                        "propertyName": "Подпись клиента",
+                        "propertyValue": "__________"
+                    },
+                    "provisionSum": 0,
+                    "requestNumber": 16,
+                    "retailPlace": "Магазин",
+                    "retailPlaceAddress": "630075 г.Новосибирск, ул.Народная д.20",
+                    "shiftNumber": 165,
+                    "taxationType": 1,
+                    "appliedTaxationType": 1,
+                    "totalSum": 176060,
+                    "user": "ООО фирма \"Вариант-А\"",
+                    "userInn": "5407137216  "
+                }
+            }
+        },
+        "createdAt": "2021-11-30T14:16:58+00:00",
+        "timeLastAccess": "2021-11-30T14:16:58+00:00"
+    }
+]
